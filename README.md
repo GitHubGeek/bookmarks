@@ -1,3 +1,5 @@
 # My Bookmarks
 
-Use GitHub's repo browser to browse bookmark categories.
+This is a distributed, hosted, 100% forkable bookmark directory.
+
+To browse: Use GitHub's file browser
