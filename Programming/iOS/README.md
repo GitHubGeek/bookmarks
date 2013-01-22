@@ -10,6 +10,7 @@
 - http://www.cocoawithchurros.com/
 - https://groups.google.com/group/iphone-appdev-auditors
 - https://gregorykaiser.wordpress.com/starting-cs193p-hints/
+- [Web Developers, Don't Be Lazy And Learn A Native Mobile Language](http://blog.mobtest.com/2012/12/web-developers-dont-be-lazy-and-learn-a-native-mobile-language/)
 
 ### Style Guides
 
