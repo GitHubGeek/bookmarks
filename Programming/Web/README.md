@@ -11,6 +11,7 @@
 - [mezzanine-bookmarks](https://github.com/adieu/mezzanine-bookmarks)
 - [django-mockups - a simple way of loading masses of randomly generated test data into your development database](https://github.com/sorl/django-mockups)
 - [Debugging Celery Tasks](http://blog.endpoint.com/2012/03/debugging-celery-tasks-in-django.html)
+- [Django, PostgreSQL, and Transaction Management](http://thebuild.com/blog/2009/11/07/django-postgresql-and-transaction-management/)
 
 ## JavaScript / ECMASCript
 
@@ -42,7 +43,6 @@
 - [Meteor smart package browser](https://atmosphere.meteor.com/)
 - [Telescope is an open-source social news app (think Hacker News or Reddit) built with Meteor, a real-time Javascript framework.](http://telesc.pe/)
     - [on GitHub](https://github.com/SachaG/Telescope)
-
 
 ## Ruby on Rails
 

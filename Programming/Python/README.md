@@ -7,6 +7,6 @@
 ## People
 
 - [Kenneth Reitz](http://www.kennethreitz.com/)
-  - [Talk: Python for Humans](https://speakerdeck.com/u/kennethreitz/p/python-for-humans)
-  - [Talk: Flasky Goodness](https://speakerdeck.com/u/kennethreitz/p/flasky-goodness)
+    - [Talk: Python for Humans](https://speakerdeck.com/u/kennethreitz/p/python-for-humans)
+    - [Talk: Flasky Goodness](https://speakerdeck.com/u/kennethreitz/p/flasky-goodness)
 - [pydanny](http://pydanny.com/)
